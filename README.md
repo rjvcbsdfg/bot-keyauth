@@ -181,7 +181,6 @@ Khôi phục bằng /restore (chỉ admin).
 
 Debug:
 Kiểm tra log trong keys.db (bảng logs) hoặc console.
-Liên hệ qua Telegram (@hieudeptrai) nếu cần hỗ trợ.
 
 
 
